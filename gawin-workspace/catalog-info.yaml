@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: "gawin-workspace"
+  description: "Testowy workspace gawina"
+spec:
+  owner: group:default/xwing-libra
+  domain: domain:default/big-data
